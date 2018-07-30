@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,path_to-regexp",
+    "logging_enabled": "false",
+    "name": "path_to-regexpSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "path_to-regexpSmokeTest.js"
+}
